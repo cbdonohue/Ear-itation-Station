@@ -4,6 +4,8 @@ This Python script converts the n8n workflow for generating AI viral videos with
 
 [video.mp4](https://github.com/user-attachments/assets/37fe24ba-e944-46ef-b6ba-cd33080afede)
 
+[video.mp4](https://github.com/user-attachments/assets/9e27a96b-38db-46d9-94e5-b619bef07ee1)
+
 
 ## Features
 
