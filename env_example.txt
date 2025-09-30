@@ -1,0 +1,8 @@
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Wavespeed AI API Configuration (for Seedance video generation)
+WAVESPEED_API_KEY=your_wavespeed_api_key_here
+
+# Fal AI API Configuration (for audio generation and video stitching)
+FAL_API_KEY=your_fal_api_key_here
