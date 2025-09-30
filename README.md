@@ -2,6 +2,9 @@
 
 This Python script converts the n8n workflow for generating AI viral videos with ASMR sounds into a sequential Python implementation.
 
+[video.mp4](https://github.com/user-attachments/assets/37fe24ba-e944-46ef-b6ba-cd33080afede)
+
+
 ## Features
 
 - **AI-Powered Idea Generation**: Uses GPT-4 to generate creative video concepts
