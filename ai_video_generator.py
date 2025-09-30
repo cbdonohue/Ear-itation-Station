@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 AI Viral Video Generator
-Converts the n8n workflow into a sequential Python script for generating AI videos with ASMR sounds.
+Python script for generating AI videos with ASMR sounds.
 """
 
 import os
