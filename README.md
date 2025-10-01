@@ -72,7 +72,6 @@ python ai_video_generator.py
 
 ## Configuration
 
-The script uses the same prompts and parameters as the original n8n workflow:
 - Video aspect ratio: 9:16 (vertical for social media)
 - Clip duration: 10 seconds each
 - Final video: 30 seconds (3 clips)
@@ -87,7 +86,5 @@ The script includes comprehensive error handling and logging:
 
 ## Notes
 
-- The original n8n workflow had social media upload functionality (currently disabled)
 - All API calls include proper rate limiting and error handling
-- The script follows the exact same logic flow as the n8n workflow
 - Results are logged to console with full metadata for easy tracking
