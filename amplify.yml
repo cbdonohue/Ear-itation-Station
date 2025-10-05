@@ -1,0 +1,27 @@
+version: 1
+backend:
+  phases:
+    build:
+      commands:
+        - echo "Backend build phase"
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - echo "Installing Python dependencies"
+        - python3 -m pip install --upgrade pip
+        - pip3 install -r requirements.txt
+    build:
+      commands:
+        - echo "Building FastAPI application"
+        - echo "No build step required for FastAPI"
+    postBuild:
+      commands:
+        - echo "Post-build phase completed"
+  artifacts:
+    baseDirectory: /
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - ~/.cache/pip/**/*
